@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Notepad
+</name>
+</assembly>
+<members>
+<member name="P:Notepad.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Notepad.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Notepad.My.Resources.Resources.editHelpFile">
+	<summary>
+  Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff31507\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang4105\deflangfe4105\themelang4105\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}
+{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 00000000000000000000}Cambria Math;}{\f37\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\flomajor [rest of string was truncated]";.
+</summary>
+</member><member name="P:Notepad.My.Resources.Resources.ntpdHelpFile">
+	<summary>
+  Looks up a localized string similar to {\rtf1\ansi\ansicpg1252\deff0\deflang4105{\fonttbl{\f0\froman\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green77\blue187;}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\sb100\sa100\cf1\f0\fs24 What is Notepad?\cf0\par
+Notepad is a basic text-editing program and it's most commonly used to view or edit text files. A text file is a file type typically identified by the .txt file name extension.\par
+\pard\sa200\sl276\slmult1\cf1\lang9\f1\fs22 --------------------- [rest of string was truncated]";.
+</summary>
+</member><member name="P:Notepad.My.Resources.Resources.ntpdLogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Notepad.My.Resources.Resources.printingHelpFile">
+	<summary>
+  Looks up a localized string similar to {\rtf1\ansi\ansicpg1252\deff0\deflang4105{\fonttbl{\f0\froman\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green77\blue187;}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\sb100\sa100\cf1\f0\fs24 How do I print a document?\cf0\par
+Click on the '\b File\b0 ' menu, and then click on '\b Print\b0 '\par
+OR\par
+Press '\b Control\b0 ' and '\b P\b0 ' on your keyboard\par
+\pard\sa200\sl276\slmult1\cf1\lang9\f1\fs22 ------------------------------------------------------ [rest of string was truncated]";.
+</summary>
+</member><member name="P:Notepad.My.Resources.Resources.SpprtPic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Notepad.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

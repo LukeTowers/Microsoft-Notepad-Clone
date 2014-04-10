@@ -1,0 +1,41 @@
+C:\Users\Luke Towers\documents\visual studio 2010\Projects\Microsoft Notepad\Microsoft Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Luke Towers\documents\visual studio 2010\Projects\Microsoft Notepad\Microsoft Notepad\bin\Debug\Notepad.exe
+C:\Users\Luke Towers\documents\visual studio 2010\Projects\Microsoft Notepad\Microsoft Notepad\bin\Debug\Notepad.pdb
+C:\Users\Luke Towers\documents\visual studio 2010\Projects\Microsoft Notepad\Microsoft Notepad\bin\Debug\Notepad.xml
+C:\Users\Luke Towers\documents\visual studio 2010\Projects\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.Resources.resources
+C:\Users\Luke Towers\documents\visual studio 2010\Projects\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.exe
+C:\Users\Luke Towers\documents\visual studio 2010\Projects\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.xml
+C:\Users\Luke Towers\documents\visual studio 2010\Projects\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.pdb
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.findReplaceForm.resources
+C:\Users\Luke Towers\documents\visual studio 2010\Projects\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.EditorForm.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Microsoft Notepad.vbproj.GenerateResource.Cache
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\bin\Debug\Notepad.exe
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\bin\Debug\Notepad.pdb
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\bin\Debug\Notepad.xml
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.findReplaceForm.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.EditorForm.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.Resources.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Microsoft Notepad.vbproj.GenerateResource.Cache
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.exe
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.xml
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.pdb
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.frmHelp.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.frmAbout.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.frmAddFile.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Visual Basic\PET_PROJECTS\Microsoft Notepad\Microsoft Notepad\obj\x86\Debug\Notepad.frmColourChooser.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\obj\x86\Debug\Notepad.exe
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\obj\x86\Debug\Notepad.xml
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\obj\x86\Debug\Notepad.pdb
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\bin\Debug\Notepad.exe
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\bin\Debug\Notepad.pdb
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\bin\Debug\Notepad.xml
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\obj\x86\Debug\Notepad.frmColourChooser.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\obj\x86\Debug\Notepad.frmAbout.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\obj\x86\Debug\Notepad.findReplaceForm.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\obj\x86\Debug\Notepad.EditorForm.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\obj\x86\Debug\Notepad.frmHelp.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\obj\x86\Debug\Notepad.frmAddFile.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\obj\x86\Debug\Notepad.Resources.resources
+C:\Users\Luke Towers\Documents\Visual Studio 2010\Projects\Microsoft Notepad(OpenSourceVersion)\Microsoft Notepad\obj\x86\Debug\Microsoft Notepad.vbproj.GenerateResource.Cache
